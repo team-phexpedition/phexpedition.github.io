@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Phexpedition
+
+Phexpedition is a web application that allows you to plan and document photo walks, including uploading and sharing photos of eachparticipant. You can host Phexpedition on your own.
 
 You can use the [editor on GitHub](https://github.com/team-phexpedition/phexpedition.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
